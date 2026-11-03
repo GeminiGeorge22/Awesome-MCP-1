@@ -172,6 +172,7 @@ Legend: ✅ = Official / reference project · Transport: `stdio`/`sse`/`remote`
 
 ### Analytics
 
+- [Etsy Sales MCP](https://github.com/GeminiGeorge22/etsy-sales-mcp) `stdio` — Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop. — `etsy`, `ecommerce`, `analytics`
 - [LLM Pulse MCP Server](https://github.com/LLM-Pulse/llmpulse-mcp) `stdio`, `remote` — Access LLM Pulse brand visibility, citations, sentiment, share of voice, recommendations, tracked prompts, and AI traffic analytics. — `analytics`, `ai-visibility`, `brand-monitoring`
 
 ### Browser

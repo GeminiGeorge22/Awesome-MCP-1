@@ -529,6 +529,16 @@ entries:
     official: false
     tags: [analytics, ai-visibility, brand-monitoring]
 
+  - id: etsy-sales-mcp
+    name: Etsy Sales MCP
+    kind: server
+    category: analytics
+    url: https://github.com/GeminiGeorge22/etsy-sales-mcp
+    description: Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop.
+    transport: [stdio]
+    official: false
+    tags: [etsy, ecommerce, analytics]
+
   - id: meetstream
     name: MeetStream
     kind: server
