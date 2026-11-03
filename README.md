@@ -187,6 +187,7 @@ Legend: ✅ = Official / reference project · Transport: `stdio`/`sse`/`remote`
 
 ### Data
 
+- [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) `stdio` — New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. — `jobs`, `recruiting`, `data`
 - [CompanyScope](https://github.com/Stewyboy1990/companyscope-mcp) `stdio`, `remote` — Company intelligence from 12 free public sources — full company profiles via a single tool call. — `companies`, `data`, `research`
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp) `remote` — Background check any company in the world via remote MCP — registration, executives, courts and finances. — `companies`, `osint`, `background-check`, `remote`
 

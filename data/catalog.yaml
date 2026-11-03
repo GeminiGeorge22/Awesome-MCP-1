@@ -588,6 +588,16 @@ entries:
     official: false
     tags: [companies, data, research]
 
+  - id: ats-jobs-mcp
+    name: ATS Jobs MCP
+    kind: server
+    category: data
+    url: https://github.com/GeminiGeorge22/ats-jobs-mcp
+    description: New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards.
+    transport: [stdio]
+    official: false
+    tags: [jobs, recruiting, data]
+
   - id: hyperconsciousness
     name: Hyperconsciousness
     kind: server
