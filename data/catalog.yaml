@@ -588,6 +588,16 @@ entries:
     official: false
     tags: [companies, data, research]
 
+  - id: gov-tenders-mcp
+    name: Gov Tenders MCP
+    kind: server
+    category: data
+    url: https://github.com/GeminiGeorge22/gov-tenders-mcp
+    description: Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link.
+    transport: [stdio]
+    official: false
+    tags: [government, tenders, procurement, data]
+
   - id: hyperconsciousness
     name: Hyperconsciousness
     kind: server
